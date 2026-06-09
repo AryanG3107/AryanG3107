@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Engineering Student @ The Ohio State University</b><br>
-  ECE Focus · GPA: 3.75 · Expected May 2029
+  ECE Focus · GPA: 3.8 · Expected May 2029
 </p>
 
 <p align="center">
